@@ -4,10 +4,10 @@ import './styles/global.scss'
 
 
 export function App() {
-  return (
-    <>
-      <Header />
-      <TaskList />
-    </>
-  )
+    return (
+        <>
+            <Header />
+            <TaskList />
+        </>
+    )
 }
